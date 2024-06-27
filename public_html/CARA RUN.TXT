@@ -1,0 +1,7 @@
+RUN XAAMP
+
+
+
+RUN FLASK DI 
+:\xampp\htdocs\public_html\naivebayes> python app.py
+setelah run berhasil open http://127.0.0.1:5000/predihanya memastikan sudah berjalan ct di browser 
